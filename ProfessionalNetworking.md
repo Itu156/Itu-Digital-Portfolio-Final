@@ -1,9 +1,9 @@
 # Professional Networking 
 
 ## 🧾 Evidence 
-- Screenshot of LinkedIn profile with posts and connections.  
-- GitHub activity graph or commit screenshot.  
-*(insert images)*  
+- Screenshot of LinkedIn profile with connections.  
+<img width="1357" height="864" alt="image" src="https://github.com/user-attachments/assets/b9d9e4f6-3ab3-4dad-9b43-ea8376758c2c" />
+
 
 ## 💬 Reflection — STAR Technique
 **Situation:** Our work-readiness training encouraged us to build a professional digital footprint.  
