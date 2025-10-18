@@ -2,8 +2,7 @@
 
 ## 📄 Evidence
 - [Download My CV (PDF)](https://github.com/Itu156/Cv/blob/main/Itumeleng__Bedesho.pdf?raw=true)
-- Screenshot of submission to Achumen Software as proof of real-world application.  
-*(insert image)*  
+  
 
 ## 💬 Reflection — STAR
 **Situation:** I needed a CV that accurately presented my skills for internship applications.  
