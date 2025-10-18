@@ -1,12 +1,16 @@
 # Mock Interview 
 
 ## 🧾 Evidence 
-- Feedback form or recording summary from mock interview.  
-- Screenshot of evaluation scores or lecturer comments.  
+-Recording summary from mock interview.
+- **Situation:**  
+As part of the work-readiness training, I was required to complete a mock interview to assess my ability to handle real-world interview questions confidently and professionally.  
 
-## 💬 Reflection — STAR 
-**Situation:** I participated in a recorded mock interview simulating a junior developer role.  
-**Task:** Demonstrate both technical knowledge and professional behaviour under pressure.  
-**Action:** I prepared answers using the STAR technique, maintained eye contact with the camera, and took three-second pauses before responding to think logically.  
-**Result:** The interviewer commented that my delivery was “confident and solution-oriented.” This experience sharpened my self-presentation skills for real industry interviews.
+- **Task:**  
+Demonstrate effective communication, structured thinking, and composure while answering behavioural and technical questions in front of a camera.  
+
+- **Action:**  
+I prepared by researching common interview questions for IT graduates and rehearsed using the STAR technique. I set up my camera, ensured good lighting, and dressed professionally. During the recording, I maintained eye contact, used a calm tone, and avoided filler words. I focused on giving clear, example-based answers — particularly about my experience developing the Gadgets/FashionGroove e-commerce project.  
+
+- **Result:**  
+The exercise significantly improved my confidence and presentation skills. Reviewing the video helped me notice areas for improvement, such as pacing and concise answers. Overall, I was able to communicate my technical and soft skills effectively, and I now feel more ready for real job interviews.
 
