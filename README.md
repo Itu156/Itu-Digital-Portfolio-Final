@@ -18,12 +18,12 @@ All evidence and reflections follow the **STAR Technique** (Situation, Task, Act
 
 ## 💡 Featured Project — Gadgets E-commerce Website
 **Role:** Frontend & Database Developer  
-**Technologies:** React, Redux, Firebase, MySQL, Spring Boot  
-**Repo:** [link to project repo here]  
+**Technologies:** HTML, CSS,  MySQL, Spring Boot  
+**Repo:** (https://github.com/Itu156/Pixel-Tech-ITU) 
 **Highlights:**  
 - Implemented secure authentication and real-time product management.  
 - Designed responsive UI with clear navigation and consistent branding.  
-- Integrated Firebase Firestore for dynamic data storage.
+- Integrated MySql for dynamic data storage.
 
 ---
 
