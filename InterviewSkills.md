@@ -3,7 +3,7 @@
 ## 🧾 Evidence
 - Interview preparation notes and STAR answer sheet.  
 - Screenshot of mock Q&A practice session or code challenge.  
-*(insert images or files)*  
+  
 
 ## 💬 Reflection — STAR 
 **Situation:** I was preparing for a technical interview simulation conducted by our faculty.  
