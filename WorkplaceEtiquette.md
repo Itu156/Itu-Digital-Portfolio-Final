@@ -1,7 +1,9 @@
 # Workplace Etiquette 
 
 ## 🧾 Evidence 
-- Minutes from group meetings showing attendance and task completion.  
+- Communication with team lead regarding issue.
+- <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/dfa465cc-c7a0-47d8-b406-6bb016aed421" />
+
 - Screenshot of  WhatsApp team update.  
 *<img width="1170" height="1582" alt="image" src="https://github.com/user-attachments/assets/b4e19903-a704-4ee9-b1b7-f9f1ad255b64" />
 *  
