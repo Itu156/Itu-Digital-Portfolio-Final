@@ -1,6 +1,6 @@
 # Itumeleng Bedesho — Final Digital Portfolio (Work Readiness FSA)
 
-Welcome to my Final Digital Portfolio for **Project Presentation 3 (PRP370S)**.  
+Welcome to my Final Digital Portfolio for **Project Presentation 3**.  
 This portfolio demonstrates the practical work-readiness skills I’ve gained through academic projects and professional preparation.  
 All evidence and reflections follow the **STAR Technique** (Situation, Task, Action, Result).
 
