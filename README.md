@@ -27,4 +27,4 @@ All evidence and reflections follow the **STAR Technique** (Situation, Task, Act
 
 ---
 
-> “Professionalism is not a title — it’s a habit reflected in communication, preparation, and execution.” — I. Bedesho
+
