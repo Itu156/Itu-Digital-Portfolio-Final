@@ -2,6 +2,8 @@
 
 ## 🧾 Evidence 
 -Recording summary from mock interview.
+🎥 [Watch My Mock Interview Video]([https://github.com/Itu156/Itu-Digital-Portfolio-Final/raw/main/mock-interview.mp4
+])
 - **Situation:**  
 As part of the work-readiness training, I was required to complete a mock interview to assess my ability to handle real-world interview questions confidently and professionally.  
 
